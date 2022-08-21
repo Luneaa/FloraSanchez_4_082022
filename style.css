@@ -38,7 +38,14 @@ a:hover {
     background-size: cover;
     position: relative;
 }
-
+.bloc-presetation{
+font-size: 30px;
+font-weight: bold;
+padding: 30px;
+}
+.bloc-quote{
+    font-size: 25px;
+}
 .bloc .container {
     padding-left: 0;
     padding-right: 0;
