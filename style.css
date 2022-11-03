@@ -844,7 +844,7 @@ h4 {
     background-image: url("img/image-de-presentation.jpg");
 }
 .logo-img {
-    width: 200px;
+    width: 150px;
 }
 
 @media (max-width: 1024px) {
